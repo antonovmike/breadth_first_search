@@ -12,3 +12,11 @@ path = "v1/main.rs"
 [[bin]]
 name = "v2"
 path = "v2/main.rs"
+
+[[bin]]
+name = "v3"
+path = "v3/main.rs"
+
+[[bin]]
+name = "v4"
+path = "v4/main.rs"
